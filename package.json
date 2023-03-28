@@ -1,7 +1,7 @@
 {
   "name": "mavka-npm-setup",
   "version": "1.0.0",
-  "description": "Цей репозиторій містить приклад конфігурації [Мавки](https://xn--80aaf6ah.xn--j1amh/) для використання зі скриптами пакетного менеджера NPM.",
+  "description": "Конфігурація Мавки зі скриптами NPM",
   "main": "index.js",
   "scripts": {
     "start": "мавка старт"
