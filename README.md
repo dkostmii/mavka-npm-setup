@@ -51,12 +51,20 @@
     node_modules/
     ```
 
-5. Запустити NPM скрипт `start`:
+## Запуск проєкту
 
-    ```bash
-    npm run start
-    ```
+Переконайтесь, що ви встановили залежності за допомогою:
 
-    або за допомогою палітри команд VS Code
+```bash
+npm install
+```
 
-    ![Запуск NPM скрипта у VS Code](./img/vs-code-npm-scripts.png)
+Запустіть NPM скрипт `start` за допомогою команди:
+
+```bash
+npm run start
+```
+
+або за допомогою вкладки **NPM Scripts** VS Code
+
+![Запуск NPM скрипта у VS Code](./img/vs-code-npm-scripts.png)
